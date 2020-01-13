@@ -71,7 +71,7 @@ The hardest part of this challenge was editing the second Todo item. After doubl
 </ul>
 ```
 
-Creating this final step test was the most time consuming. Originally I wanted to remove all the text from the 2nd todo item. In the end, I decided that simply editing the item itself was satisfactory.
+Creating this final step test was the most time consuming. Originally I wanted to remove all the text from the 2nd todo item. In the end, I decided that simply editing the item itself was sufficient.
 
 ## Conclusion
 
