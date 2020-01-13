@@ -57,7 +57,7 @@ OK. 9 assertions passed. (28.665s)
 
 My initial assumption was that this challenge would be fairly straight forward. Unfortunately I was not familiar with the Polymer Framework and was not aware of how it would update elements when certain actions took place (eg: double clicking an element).
 
-The hardest part of this challenge was editing the second Todo item. After double clicking the todo item to edit it, the Polymer Framework would change two elements styles (I have removed unnecessary tags):
+The hardest part of this challenge was editing the second Todo item. After double clicking the todo item to edit it, the Polymer Framework would change three elements styles (I have removed unnecessary tags):
 
 ```html
   <li is="td-item" class="style-scope td-todos"> <!-- On double click, the class name changes to: "style-scope td-todos editing" -->
