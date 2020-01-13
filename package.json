@@ -4,14 +4,14 @@
   "description": "Automated website interaction with the Polymer Todo App",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nightwatch --env selenium"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/russellg/todomvc-code-challenge.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Russell Grigg",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/russellg/todomvc-code-challenge/issues"
