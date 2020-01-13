@@ -55,7 +55,7 @@ OK. 9 assertions passed. (28.665s)
 
 ## Challenges
 
-My initial assumptions would that this challenge would be fairly straight forward. Unfortunately I was not familiar with the Polymer Framework and was not aware of how it would update elements when certain actions took place (eg: double clicking an element).
+My initial assumption was that this challenge would be fairly straight forward. Unfortunately I was not familiar with the Polymer Framework and was not aware of how it would update elements when certain actions took place (eg: double clicking an element).
 
 The hardest part of this challenge was editing the second Todo item. After double clicking the todo item to edit it, the Polymer Framework would change two elements styles (I have removed unnecessary tags):
 
