@@ -1,6 +1,11 @@
 # todomvc-code-challenge
 
-Automated website interaction with the Polymer Todo App
+Automated website interaction with the Polymer Todo App. The test satisfies the goals of the coding challenge:
+
+- Load the [https://todomvc.com/](https://todomvc.com/)
+- Click the Polymer link
+- Add two Todo items
+- Edit the content of the second Todo item
 
 ## Prerequisites
 

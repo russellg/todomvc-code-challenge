@@ -24,7 +24,7 @@ module.exports = {
 
   test_settings: {
     default: {
-      disable_error_log: true,
+      disable_error_log: false,
 
       screenshots: {
         enabled: false,
